@@ -1,5 +1,10 @@
 <p><br></p>
-<p style="text-align: center;"><strong>Hello there! 🐹</strong></p>
+
+![image](https://user-images.githubusercontent.com/63970461/147023257-1f173fe1-f961-4c69-b396-b66d6f827dc3.png)
+<p style="text-align: center;"><strong>Hello there! this above is the little character for my android operating system rotomoid or tommy :)</strong></p>
+
+
+
 <p style="text-align: center;"><br></p>
 <p style="text-align: left;"><strong>My name is Charde&apos;lyce and this is my GitHub&nbsp;here you will see some of the projects I like to work on; whether its a OS for android,&nbsp;an app game or a tool for the homebrew scene for the switch ...I am always busy sometimes a little too much ^^;;</strong></p>
 <p style="text-align: left;"><b>What I like to do: &nbsp;Android development , make app games, voice assistants, tools for homebrew and even some Arduino! :D</b></p>
