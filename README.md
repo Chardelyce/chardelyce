@@ -1,19 +1,65 @@
-<p><br></p>
-
-![image](https://user-images.githubusercontent.com/63970461/147023257-1f173fe1-f961-4c69-b396-b66d6f827dc3.png)
-<p style="text-align: center;"><strong>Hello there! this above is the little character for my android operating system rotomoid or tommy :)</strong></p>
-
-
-
-<p style="text-align: center;"><br></p>
-<p style="text-align: left;"><strong>My name is Charde&apos;lyce and this is my GitHub&nbsp;here you will see some of the projects I like to work on; whether its a OS for android,&nbsp;an app game or a tool for the homebrew scene for the switch ...I am always busy sometimes a little too much ^^;;</strong></p>
-<p style="text-align: left;"><b>What I like to do: &nbsp;Android development , make app games, voice assistants, tools for homebrew and even some Arduino! :D</b></p>
-<p style="text-align: left;"><strong>other stuff I do : draw, have spa days , listen to audiobooks , and watch youtube(^ U ^ )**</strong></p>
-<p style="text-align: left;"><b>I am currently learning about more mobile development and trying to make more useful tools for interacting with:)</b></p>
-<p style="text-align: left;"><b>Fun fact : I made a real Goddard from jimmy neutron 🐕 🤖 he&apos;s really cool talks with my own voice assistant I made too! you can check that project out here! https://github.com/Chardelyce/Goddard-</b></p>
-<p style="text-align: left;"><br></p>
-<p style="text-align: left;"><strong>How to reach me :&nbsp;</strong></p>
-<p style="text-align: left;"><span style="text-align: inherit;"><b>LinkedIn</b></span><strong>: <a href="https://www.linkedin.com/in/charde-lyce-edwards-7098191ba/">https://www.linkedin.com/in/charde-lyce-edwards-7098191ba/</a></strong></p>
-<p style="text-align: left;"><strong>Email: chardelycee@gmail.com</strong></p>
-<p style="text-align: left;"><br></p>
-<p style="text-align: center;"><br></p>
+<p><strong><span style="color: #003300;">Welcome to my portfolio!🐸</span></strong></p>
+<p><strong><span style="color: #003300;">About me: 21 / Freelance Programmer, and indie game maker&nbsp;</span></strong></p>
+<p><strong><span style="color: #003300;">Favorite program or application I made: Goddard&nbsp;</span></strong></p>
+<p><strong><span style="color: #003300;">Favorite Language: Java</span></strong></p>
+<p><strong><span style="color: #003300;">Favorite IDE: Android IDE</span></strong></p>
+<p><strong><span style="color: #003300;">What do I see myself doing in 5 years: Systems Engineer, Software engineer , or data engineer&nbsp;</span></strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong><span style="color: #003300;">Langauges and IDES I have used and created projects in.</span></strong></p>
+<table style="border-collapse: collapse; width: 100%; height: 170px;" border="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px;">
+<h2><span style="color: #339966;"><strong>IDEs</strong></span></h2>
+</td>
+<td style="width: 33.3333%; height: 18px;">
+<h2><span style="color: #339966;">Langauges&nbsp;</span></h2>
+</td>
+<td style="width: 33.3333%; height: 18px;">
+<h2><span style="color: #00ff00;">&nbsp;<span style="color: #339966;">Projects</span></span></h2>
+</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px;">Arduino IDE</td>
+<td style="width: 33.3333%; height: 18px;">Arduino</td>
+<td style="width: 33.3333%; height: 18px;"><a href="https://github.com/Chardelyce/Goddard-/tree/Jimmy/goddardard">Goddard movement cntrl</a></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px;">Visual Studio</td>
+<td style="width: 33.3333%; height: 18px;">Cpp/ Forms/c#</td>
+<td style="width: 33.3333%; height: 18px;">
+<p><a href="https://github.com/Chardelyce/hbmenuchanger">Homebrew menu changer</a></p>
+<p><a href="https://github.com/Chardelyce/Download-adventure">Download-adventure(a quick side test)</a></p>
+<p><a href="https://github.com/Chardelyce/Beta-goddard">Goddard(first version)</a></p>
+</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.3333%; height: 18px;">
+<p>Unity</p>
+</td>
+<td style="width: 33.3333%; height: 18px;">C#</td>
+<td style="width: 33.3333%; height: 18px;"><a href="https://github.com/fullsaildevelopment/2201-CSBS-bit-squared">Empyere: Faerens Tale(2D RPG)</a></td>
+</tr>
+<tr style="height: 52px;">
+<td style="width: 33.3333%; height: 52px;">
+<p>Eclipse</p>
+</td>
+<td style="width: 33.3333%; height: 52px;">Java</td>
+<td style="width: 33.3333%; height: 52px;">&nbsp;</td>
+</tr>
+<tr style="height: 46px;">
+<td style="width: 33.3333%; height: 46px;">
+<p>Android Studio IDE&nbsp;</p>
+</td>
+<td style="width: 33.3333%; height: 46px;">Java/XML</td>
+<td style="width: 33.3333%; height: 46px;">
+<p><a href="https://github.com/Chardelyce/Goddard-">Goddard</a></p>
+<p><a href="https://github.com/Chardelyce/android98">Android98 (unfinished)</a></p>
+<p><a href="https://github.com/Chardelyce/Neutron-Blasts">Neutron-Blasts(going to be remade)</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
