@@ -1,4 +1,6 @@
 <p><strong><span style="color: #003300;">Welcome to my portfolio!🐸</span></strong></p>
+
+![ezgif-4-c795217f25](https://user-images.githubusercontent.com/63970461/170830070-0591cbb3-fde4-4cef-9eee-bc0b5f478d09.gif)
 <p><strong><span style="color: #003300;">About me: 21 / Freelance Programmer, and indie game maker&nbsp;</span></strong></p>
 <p><strong><span style="color: #003300;">Favorite program or application I made: Goddard&nbsp;</span></strong></p>
 <p><strong><span style="color: #003300;">Favorite Language: Java</span></strong></p>
@@ -63,3 +65,4 @@
 </table>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+
