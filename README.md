@@ -39,7 +39,7 @@
 <p>Unity</p>
 </td>
 <td style="width: 33.3333%; height: 18px;">C#</td>
-<td style="width: 33.3333%; height: 18px;"><a href="https://github.com/fullsaildevelopment/2201-CSBS-bit-squared">Empyere: Faerens Tale(2D RPG)</a></td>
+<td style="width: 33.3333%; height: 18px;"><a href="https://github.com/Chardelyce/Emypyere-Faerens-Tale">Empyere: Faerens Tale(2D RPG)</a></td>
 </tr>
 <tr style="height: 52px;">
 <td style="width: 33.3333%; height: 52px;">
