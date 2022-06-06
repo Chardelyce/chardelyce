@@ -1,6 +1,6 @@
 <h1 style="text-align: center;"><strong>Welcome to my Git : U&nbsp;</strong></h1>
 <blockquote>
-<p style="text-align: center;"><span style="color: #993300;"><strong>My name is</strong> <span style="color: #0000ff;"><strong><a style="color: #0000ff;" href="chardelyce.github.io">Chardelyce</a></strong></span> <strong>I'm a BSCS Graduate from FullSail Universisty&nbsp; and I like to program different projects feel free to look around my Repos. I am versed in both Front end as well as Backend.&nbsp;</strong></span></p>
+<p style="text-align: center;"><span style="color: #993300;"><strong>My name is</strong> <span style="color: #0000ff;"><strong><a style="color: #0000ff;" href="https://chardelyce.github.io">Chardelyce</a></strong></span> <strong>I'm a BSCS Graduate from FullSail Universisty&nbsp; and I like to program different projects feel free to look around my Repos. I am versed in both Front end as well as Backend.&nbsp;</strong></span></p>
 <p style="text-align: center;"><strong><span style="color: #993300;"><span style="color: #00ff00;">Proficent Languages</span>: JAVA, html, C#</span></strong></p>
 <p style="text-align: center;"><strong><span style="color: #993300;"><span style="color: #ff9900;">Familar Languages</span>: Python, xml, MYSQL, Cpp</span></strong></p>
 <p style="text-align: center;"><strong><span style="color: #993300;">For hiring inquries contact me by the follow methods below:)</span></strong></p>
