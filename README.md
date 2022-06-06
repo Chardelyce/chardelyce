@@ -1,68 +1,13 @@
-<p><strong><span style="color: #003300;">Welcome to my portfolio!🐸</span></strong></p>
-
-![ezgif-4-c795217f25](https://user-images.githubusercontent.com/63970461/170830070-0591cbb3-fde4-4cef-9eee-bc0b5f478d09.gif)
-<p><strong><span style="color: #003300;">About me: 21 / Freelance Programmer, and indie game maker&nbsp;</span></strong></p>
-<p><strong><span style="color: #003300;">Favorite program or application I made: Goddard&nbsp;</span></strong></p>
-<p><strong><span style="color: #003300;">Favorite Language: Java</span></strong></p>
-<p><strong><span style="color: #003300;">Favorite IDE: Android IDE</span></strong></p>
-<p><strong><span style="color: #003300;">What do I see myself doing in 5 years: Systems Engineer, Software engineer , or data engineer&nbsp;</span></strong></p>
+<h1 style="text-align: center;"><strong>Welcome to my Git : U&nbsp;</strong></h1>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><strong><span style="color: #003300;">Langauges and IDES I have used and created projects in.</span></strong></p>
-<table style="border-collapse: collapse; width: 100%; height: 170px;" border="1">
-<tbody>
-<tr style="height: 18px;">
-<td style="width: 33.3333%; height: 18px;">
-<h2><span style="color: #339966;"><strong>IDEs</strong></span></h2>
-</td>
-<td style="width: 33.3333%; height: 18px;">
-<h2><span style="color: #339966;">Langauges&nbsp;</span></h2>
-</td>
-<td style="width: 33.3333%; height: 18px;">
-<h2><span style="color: #00ff00;">&nbsp;<span style="color: #339966;">Projects</span></span></h2>
-</td>
-</tr>
-<tr style="height: 18px;">
-<td style="width: 33.3333%; height: 18px;">Arduino IDE</td>
-<td style="width: 33.3333%; height: 18px;">Arduino</td>
-<td style="width: 33.3333%; height: 18px;"><a href="https://github.com/Chardelyce/Goddard-/tree/Jimmy/goddardard">Goddard movement cntrl</a></td>
-</tr>
-<tr style="height: 18px;">
-<td style="width: 33.3333%; height: 18px;">Visual Studio</td>
-<td style="width: 33.3333%; height: 18px;">Cpp/ Forms/c#</td>
-<td style="width: 33.3333%; height: 18px;">
-<p><a href="https://github.com/Chardelyce/hbmenuchanger">Homebrew menu changer</a></p>
-<p><a href="https://github.com/Chardelyce/Download-adventure">Download-adventure(a quick side test)</a></p>
-<p><a href="https://github.com/Chardelyce/Beta-goddard">Goddard(first version)</a></p>
-</td>
-</tr>
-<tr style="height: 18px;">
-<td style="width: 33.3333%; height: 18px;">
-<p>Unity</p>
-</td>
-<td style="width: 33.3333%; height: 18px;">C#</td>
-<td style="width: 33.3333%; height: 18px;"><a href="https://github.com/Chardelyce/Emypyere-Faerens-Tale">Empyere: Faerens Tale(2D RPG)</a></td>
-</tr>
-<tr style="height: 52px;">
-<td style="width: 33.3333%; height: 52px;">
-<p>Eclipse</p>
-</td>
-<td style="width: 33.3333%; height: 52px;">Java</td>
-<td style="width: 33.3333%; height: 52px;">&nbsp;</td>
-</tr>
-<tr style="height: 46px;">
-<td style="width: 33.3333%; height: 46px;">
-<p>Android Studio IDE&nbsp;</p>
-</td>
-<td style="width: 33.3333%; height: 46px;">Java/XML</td>
-<td style="width: 33.3333%; height: 46px;">
-<p><a href="https://github.com/Chardelyce/Goddard-">Goddard</a></p>
-<p><a href="https://github.com/Chardelyce/android98">Android98 (unfinished)</a></p>
-<p><a href="https://github.com/Chardelyce/Neutron-Blasts">Neutron-Blasts(going to be remade)</a></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
+<blockquote>
+<p style="text-align: center;"><span style="color: #993300;">My name is <span style="color: #0000ff;"><strong><a style="color: #0000ff;" href="chardelyce.github.io">Chardelyce</a></strong></span> I'm a BSCS Graduate from FullSail Universisty&nbsp; and I like to program different projects feel free to look around my Repos. I am versed in both Front end as well as Backend.&nbsp;</span></p>
+<p style="text-align: center;"><span style="color: #993300;"><span style="color: #00ff00;">Proficent Languages</span>: JAVA, html, C#</span></p>
+<p style="text-align: center;"><span style="color: #993300;"><span style="color: #ff9900;">Familar Languages</span>: Python, xml, MYSQL, Cpp</span></p>
+<p style="text-align: center;"><strong><span style="color: #993300;">For hiring inquries contact me by the follow methods below:)</span></strong></p>
+<hr />
+<p style="text-align: center;">&nbsp;</p>
+</blockquote>
+<p style="text-align: center;"><span style="font-size: 14px;"><img src="https://clipartcraft.com/images250_/discord-logo-transparent-4.png" width="50" height="50" />&nbsp; &nbsp; &nbsp;<a href="mailto:chardelycee@gmail.com" target="_blank"><img src="https://clipartcraft.com/images250_/gmail-logo-square-4.png" width="50" height="50" /></a>&nbsp; &nbsp; <a href="https:github.com/Chardelyce" target="_blank"><img src="https://th.bing.com/th/id/OIP.kjCUP06WDUMR88i5wo2SqwHaHa?w=202&amp;h=202&amp;c=7&amp;r=0&amp;o=5&amp;pid=1.7" alt="" width="50" height="50" /></a>&nbsp; &nbsp; <a href="https://www.linkedin.com/in/charde-lyce-edwards-7098191ba/" target="_blank"><img src="https://th.bing.com/th/id/OIP.w_zDkEJ9aLiWR-g0rff8hwHaHa?w=183&amp;h=183&amp;c=7&amp;r=0&amp;o=5&amp;pid=1.7" alt="" width="50" height="50" /></a></span></p>
+<p style="text-align: left;"><span style="color: #3366ff;"><strong>Galilion#7641</strong></span></p>
