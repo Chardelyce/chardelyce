@@ -1,7 +1,7 @@
-<h1 style="text-align: center;"><strong>Welcome to my Git : U&nbsp;</strong></h1>
+<h1 style="text-align: center;"><strong>Welcome to my Git :U &nbsp;</strong></h1>
 <blockquote>
    
-
+<a href="https://github.com/chardelyce/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chardelyce&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Charde'lyce's github stats"/></a> 
 
 			
 <p style="text-align: center;"><span style="color: #993300;"><strong>My name is</strong> <span style="color: #0000ff;"><strong><a style="color: #0000ff;" href="https://chardelyce.github.io">Chardelyce</a></strong></span> <strong>I'm a BSCS Graduate from FullSail Universisty&nbsp; and I like to program different projects feel free to look around my Repos. I am versed in both Front end as well as Backend.&nbsp;</strong></span></p>
@@ -14,6 +14,4 @@
 <p style="text-align: left;"><span style="color: #3366ff;"><strong>Galilion#7641</strong></span></p>
 
 
-
-<a href="https://github.com/chardelyce/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chardelyce&show_icons=true&include_all_commits=true&theme=highcontrast&hide_border=true" alt="
-Charde'lyce's github stats"/></a> | <a href="https://github.com/chardelyce/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chardelyce&langs_count10&layout=compact&theme=buefy&hide_border=true" /></a> 
+| <a href="https://github.com/chardelyce/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chardelyce&langs_count10&layout=compact&theme=buefy&hide_border=true" /></a> 
