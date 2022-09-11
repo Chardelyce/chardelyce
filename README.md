@@ -2,7 +2,7 @@
 
 | <a href="https://github.com/chardelyce/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chardelyce&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Char's github stats" /></a> | <a href="https://github.com/chardelyce/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chardelyce&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
-<p style="text-align: justify;"><strong><span style="color: #666699;"><span style="color: #333399;"><span style="color: #666699;">Hello, My name is <a href="https://github.com/chardelyce">Charde'Lyce(check out my website here!)</a>I am an BSCS Graduate from Full-Sail University, who likes to work on several projects at a time, and experiment with different platforms' markdown support. </span> </span></span></strong></p>
+<p style="text-align: justify;"><strong><span style="color: #666699;"><span style="color: #333399;"><span style="color: #666699;">Hello, My name is <a href="https://chardelyce.github.io/index.html">Charde'Lyce(check out my website here!)</a>I am an BSCS Graduate from Full-Sail University, who likes to work on several projects at a time, and experiment with different platforms' markdown support. </span> </span></span></strong></p>
 <ul>
 <li><strong><span style="color: #666699;">💼&nbsp; Oracle/Cerner<br /></span></strong></li>
 <li><strong><span style="color: #666699;">Meet my <a title="Goddard repo" href="https://github.com/Chardelyce/Goddard-">Robot Dog Goddard</a> :D</span></strong></li>
