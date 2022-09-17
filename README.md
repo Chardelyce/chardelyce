@@ -17,7 +17,7 @@
 
 ``` 
                              About Me:
-                             I am an Honor BSCS Graduate from Full-Sail University,
+                             I am an Honors BSCS Graduate from Full-Sail University,
                              who likes to work on several projects at a time,
                              research and build up my Github profile,
                              and experiment with different platforms'
