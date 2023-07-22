@@ -2,7 +2,7 @@
 <p align="center"><strong><span>I'm <a title="my website link" href="https://chardelyce.github.io/" target="_blank">Charde'Lyce!</a></span></strong></p>  
 
 <p align="right"><strong>My Resume</strong></p>
-<p align="right"><a href="https://github.com/Chardelyce/picture/files/9541432/resume.docx" target="_blank"><img style="float: right;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Icon-notepad.svg/800px-Icon-notepad.svg.png" width="29" height="29" /></a></p>
+<p align="right"><a href= "https://github.com/Chardelyce/picture/blob/main/resume.docx"target="_blank"><img style="float: right;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Icon-notepad.svg/800px-Icon-notepad.svg.png" width="29" height="29" /></a></p>
 
 
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chardelyce&theme=gotham&layout=compact)](https://github.com/chardelyce/github-readme-stats)     | Editors:  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) |
