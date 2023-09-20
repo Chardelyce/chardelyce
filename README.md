@@ -1,11 +1,14 @@
-<p align="center"><strong><span>Nice to meet you :D</span></strong></p>
+
+<p align="center">   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=gruvbox&pause=1000&color=93C4F7&center=true&width=438&lines=Nice+to+meet+you+%3AD;Check+out+my+website+below" alt="Typing SVG"/>  </p>
+
 <p align="center"><strong><span>I'm <a title="my website link" href="https://chardelyce.github.io/" target="_blank">Charde'Lyce!</a></span></strong></p>  
 
 <p align="right"><strong>My Resume</strong></p>
 <p align="right"><a href= "https://github.com/Chardelyce/picture/files/12137066/resume.docx" target="_blank"><img style="float: right;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Icon-notepad.svg/800px-Icon-notepad.svg.png" width="29" height="29" /></a></p>
-|  <!--START_SECTION:waka-->
 
-<!--END_SECTION:waka-->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chardelyce&show_icons=true&theme=dracula)
+
 
 
 <details>
