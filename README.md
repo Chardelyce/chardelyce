@@ -3,7 +3,9 @@
 
 <p align="right"><strong>My Resume</strong></p>
 <p align="right"><a href= "https://github.com/Chardelyce/picture/files/12137066/resume.docx" target="_blank"><img style="float: right;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Icon-notepad.svg/800px-Icon-notepad.svg.png" width="29" height="29" /></a></p>
+|  <!--START_SECTION:waka-->
 
+<!--END_SECTION:waka-->
 
 
 <details>
