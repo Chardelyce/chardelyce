@@ -1,7 +1,7 @@
 
 <p align="center">   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=gruvbox&pause=1000&color=93C4F7&center=true&width=438&lines=Nice+to+meet+you+%3AD;Check+out+my+website+below" alt="Typing SVG"/>  </p>
 
-<p align="center"><strong><span>I'm <a title="my website link" href="https://chardelyce.github.io/" target="_blank">Charde'Lyce!</a></span></strong></p>  
+<p align="center"><strong><span>I'm <a title="my website link" href="https://chardelyce.github.io/" target="_blank">Charde'Lyce</a></span></strong></p>  
 
 
 
