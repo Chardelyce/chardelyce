@@ -14,7 +14,8 @@
 |![Metrics](https://metrics.lecoq.io/chardelyce?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&habits=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.ignored=c%23&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&config.timezone=America%2FNorth_Dakota%2FNew_Salem) |   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chardelyce&show_icons=true&theme=dracula)  |
 
 
-![bunny-removebg-preview](https://github.com/Chardelyce/chardelyce/assets/63970461/75efc3fd-948a-45e1-ae5e-83fb3e17a25c)
+![bunny-removebg-preview](https://github.com/Chardelyce/chardelyce/assets/63970461/75efc3fd-948a-45e1-ae5e-83fb3e17a25c)  ![Metrics](https://metrics.lecoq.io/chardelyce?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=America%2FNorth_Dakota%2FNew_Salem) 
+
 
 
 
@@ -24,7 +25,30 @@
   
 <summary>About Me</summary>
 
-
+``` 
+                             About Me:
+                             I am an Honor BSCS Graduate from Full-Sail University,
+                             who likes to work on several projects at a time,
+                             research and build up my Github profile,
+                             and experiment with different platforms'
+                             markdown support.
+        _..._
+      .'     '.      _                  
+     /    .-""-\   _/ \      Programming Languages:Cpp,C#,Java,Cerner CCL,SQL         
+   .-|   /: ^ ^ |  |   |     Markup Languages:HTML,CSS
+   |  \  |:. U /.-'-./       Scripting Languages:Python
+   | .-'-;:__.'    =/        TypeSetting: LaTEX/KaTEX
+   .'=  *=|HI   _.='
+  /   _.  |    ;
+ ;-.-'|    \   |
+/   | \    _\  _\
+\__/'._;.  ==' ==\           Likes: Dinosaurs,Space ,Shor's Algorthim, 
+         \    \   |          Statistics,InLine LaTEX support,fruit snacks
+         /    /   /
+         /-._/-._/
+        \   `\  \
+          `-._/._/
+```
 
   
 </details>
