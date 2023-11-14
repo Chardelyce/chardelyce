@@ -14,9 +14,8 @@
 
 
 ![bunny-removebg-preview](https://github.com/Chardelyce/chardelyce/assets/63970461/75efc3fd-948a-45e1-ae5e-83fb3e17a25c) 
- | |
-|----------|
-|![GitHub Streak](https://streak-stats.demolab.com?user=chardelyce&theme=dracula) | 
+
+
 
 
 
